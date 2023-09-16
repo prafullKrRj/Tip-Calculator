@@ -1,5 +1,5 @@
 
-# Meditation UI
+# Dice Roller
 
 A Tip calculator application under Google's Android Basics in compose course.
 1. Can calculate tip on the basis of bill and tip percetage and can round it up
